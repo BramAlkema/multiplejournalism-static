@@ -1,0 +1,22 @@
+/* Fix for inline-block whitespace issue causing grid items to stack */
+.grid {
+  font-size: 0; /* Remove whitespace between inline-block items */
+}
+
+.grid__item {
+  font-size: 2rem; /* Restore font size for grid items */
+  font-size: 20px;
+}
+
+/* Fix for long URLs and text in metadata overflowing */
+.article-meta__data {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+}
+
+/* Add spacing below video container to prevent overlap */
+.video-container {
+  margin-bottom: 1em;
+}

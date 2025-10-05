@@ -1,0 +1,5 @@
+{
+  "layout": "case.njk",
+  "permalink": "/case/{{ slug }}.html",
+  "tags": "cases"
+}

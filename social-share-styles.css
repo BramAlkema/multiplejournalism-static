@@ -1,0 +1,78 @@
+/* Social Sharing Buttons */
+.social-sharing {
+  margin-top: 2em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e0e0e0;
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 14px;
+  clear: both;
+}
+
+.social-sharing::before {
+  content: "Share:";
+  font-family: 'ITC Quay Sans W01 Black', sans-serif;
+  font-size: 14px;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.social-sharing a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.6em 1.2em;
+  border-radius: 4px;
+  font-family: 'ITC Quay Sans W01 Medium', sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  opacity: 1 !important;
+}
+
+.social-sharing a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  opacity: 1 !important;
+  text-decoration: none !important;
+}
+
+/* Bluesky button */
+.social-sharing a[href*="bsky.app"] {
+  background-color: #1185fe;
+  color: #fff;
+}
+
+.social-sharing a[href*="bsky.app"]:hover {
+  background-color: #0d6edb;
+}
+
+/* Mastodon button */
+.social-sharing a[href*="mastodon"] {
+  background-color: #6364ff;
+  color: #fff;
+}
+
+.social-sharing a[href*="mastodon"]:hover {
+  background-color: #5051e6;
+}
+
+/* Hide separator text */
+.social-sharing::after {
+  content: none;
+}
+
+@media only screen and (max-width: 42.4375em) {
+  .social-sharing {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .social-sharing a {
+    width: 100%;
+    justify-content: center;
+  }
+}

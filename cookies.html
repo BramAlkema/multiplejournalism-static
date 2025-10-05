@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Cookies | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/multiplejournalism-static/cookies.html">
+  <meta name="description" content="Multiple Journalism, a love letter to independent journalists: Global showcase of new tools & best practices to inspire and motivate you to research, create and share stories in innovative ways.">
+  <meta property="og:title" content="Cookies | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="Multiple Journalism, a love letter to independent journalists: Global showcase of new tools & best practices to inspire and motivate you to research, create and share stories in innovative ways.">
+  <meta property="og:url" content="http://multiplejournalism.org/cookies">
+  <meta property="og:image" content="http://multiplejournalism.org/media/images/multiple-journalism-logo.png">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/multiplejournalism-static/93d0270/css/compiled/prod/base.css">
+  <script src="/multiplejournalism-static/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/multiplejournalism-static/favicon.ico">
+</head>
+<body id="body" class="page--">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/multiplejournalism-static/">Home</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/essay.html">Essay</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/cases.html">Cases</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/about.html">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/multiplejournalism-static/contribute.html">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="content-wrapper">
+      <div class="blank-page-header">
+        &nbsp;
+      </div>
+      <div class="about mt--double mb--double content">
+        <article class="cookie-info">
+          <h1>Cookies</h1>
+          <p>This website does not set any cookies directly.</p>
+          <p>However, the following third-party services may set cookies:</p>
+          <dl class="cookie-identification clearfix">
+            <dt>Giscus (Comments)</dt>
+            <dd>The Giscus commenting system (powered by GitHub Discussions) may set cookies for authentication and preferences if you choose to interact with the comments section.</dd>
+          </dl>
+          <p>No tracking cookies, analytics cookies, or advertising cookies are used on this site.</p>
+          <footer>
+            For more information about Giscus, please visit: <a href="https://giscus.app" target="_blank">giscus.app</a>
+          </footer>
+        </article>
+      </div>
+    </div>
+  </div>
+  <script>
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/multiplejournalism-static/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/multiplejournalism-static/cookies.html">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/multiplejournalism-static/93d0270/js/build/prod/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "name": "multiplejournalism-static",
+  "version": "1.0.0",
+  "description": "This is a static version of the Multiple Journalism website, generated from an Archivarix CMS archive.",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BramAlkema/multiplejournalism-static.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BramAlkema/multiplejournalism-static/issues"
+  },
+  "homepage": "https://github.com/BramAlkema/multiplejournalism-static#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "jsdom": "^27.0.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-container": "^4.0.0"
+  }
+}

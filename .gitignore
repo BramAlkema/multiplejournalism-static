@@ -1,0 +1,19 @@
+# Development artifacts (archived locally)
+.archive/
+
+# Dependencies
+node_modules/
+
+# Build output
+_site/
+.cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.pyc
+__pycache__/
