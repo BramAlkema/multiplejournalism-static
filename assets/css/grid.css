@@ -3,8 +3,8 @@
  * Breakpoints: palm (≤679px), lap (≤899px), desk (≥1080px)
  */
 
-.grid{list-style:none;margin:0;padding:0;margin-left:-0px}
-.grid__item{display:inline-block;padding-left:0;vertical-align:top;width:100%;-moz-box-sizing:border-box;box-sizing:border-box}
+.grid{list-style:none;margin:0;padding:0;margin-left:-0px;font-size:0}
+.grid__item{display:inline-block;padding-left:0;vertical-align:top;width:100%;-moz-box-sizing:border-box;box-sizing:border-box;font-size:2rem;font-size:20px}
 .grid--rev{direction:rtl;text-align:left}
 .grid--rev>.grid__item{direction:ltr;text-align:left}
 .grid--full{margin-left:0}
