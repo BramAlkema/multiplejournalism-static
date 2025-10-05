@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Submit your idea | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/multiplejournalism-static/contribute.html">
+  <meta name="description" content="Multiple Journalism, a love letter to independent journalists: Global showcase of new tools & best practices to inspire and motivate you to research, create and share stories in innovative ways.">
+  <meta property="og:title" content="Submit your idea | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="Multiple Journalism, a love letter to independent journalists: Global showcase of new tools & best practices to inspire and motivate you to research, create and share stories in innovative ways.">
+  <meta property="og:url" content="http://multiplejournalism.org/contribute">
+  <meta property="og:image" content="http://multiplejournalism.org/media/images/multiple-journalism-logo.png">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/multiplejournalism-static/93d0270/css/compiled/prod/base.css">
+  <script src="/multiplejournalism-static/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/multiplejournalism-static/favicon.ico">
+</head>
+<body id="body" class="page--contribute">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/multiplejournalism-static/">Home</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/essay.html">Essay</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/cases.html">Cases</a>
+          </li>
+          <li class="">
+            <a href="/multiplejournalism-static/about.html">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile is-current">
+            <a href="/multiplejournalism-static/contribute.html">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <article class="content--narrow mt--double mb--double">
+      <h2>Got an idea?</h2>
+      <div class="rich mb">
+        <p>If you have spotted a new case of outstanding journalism, which uses technology creatively for better research, reporting, storytelling or distribution of news, please let us know.</p>
+        <p>To contribute, please email us with:</p>
+        <ul>
+          <li>URL of the project</li>
+          <li>Title of the project</li>
+          <li>Brief description (why should we select it?)</li>
+          <li>An image or screenshot (optional)</li>
+        </ul>
+        <p class="mt--double">
+          <a href="https://github.com/BramAlkema/multiplejournalism-static/discussions" class="button--big button--dark" target="_blank" rel="noopener">Submit via GitHub Discussions</a>
+        </p>
+        <p class="mt">
+          Or email: <a href="mailto:multiplejournalism@example.com?subject=New%20Case%20Suggestion">multiplejournalism@example.com</a>
+        </p>
+      </div>
+    </article>
+  </div>
+  <script>
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/multiplejournalism-static/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/multiplejournalism-static/cookies.html">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/multiplejournalism-static/93d0270/js/build/prod/main.js"></script>
+</body>
+</html>
