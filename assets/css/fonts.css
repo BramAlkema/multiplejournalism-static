@@ -1,0 +1,102 @@
+/* Fonts Module - Multiple Journalism Static Site
+ * @font-face declarations and icon font definitions
+ */
+
+/* ITC Quay Sans W01 Black */
+@font-face {
+  font-family: "ITC Quay Sans W01 Black";
+  src: url(/multiplejournalism-static/assets/fonts/quaysans/eec7d486-2712-4306-bb4b-8b869202034f.eot);
+  src: url(/multiplejournalism-static/assets/fonts/quaysans/eec7d486-2712-4306-bb4b-8b869202034f.eot?#iefix) format("eot"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/85dbbbbc-d6d7-4d47-ada5-792629850143.svg#85dbbbbc-d6d7-4d47-ada5-792629850143) format("svg"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/d585d5e9-ec5e-4841-9fd9-a2128fe07e36.woff) format("woff"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/f82172ce-2022-4765-9ab5-e4729421fe2b.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* ITC Quay Sans W01 Medium */
+@font-face {
+  font-family: "ITC Quay Sans W01 Medium";
+  src: url(/multiplejournalism-static/assets/fonts/quaysans/d4f5175e-7b8a-47d0-82f1-d0dda68b7ff5.eot?#iefix);
+  src: url(/multiplejournalism-static/assets/fonts/quaysans/d4f5175e-7b8a-47d0-82f1-d0dda68b7ff5.eot?#iefix) format("eot"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/06098032-de37-4557-8a71-787ab1cc20b2.woff) format("woff"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/95f339e5-84bd-451c-8185-81f6e5a99a4d.ttf) format("truetype"),
+       url(/multiplejournalism-static/assets/fonts/quaysans/72014a07-a0f2-4d7d-bccb-91bf0d8ab5e9.svg#72014a07-a0f2-4d7d-bccb-91bf0d8ab5e9) format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Quadraat Regular */
+@font-face {
+  font-family: 'Quadraat Regular';
+  src: url(/multiplejournalism-static/assets/fonts/quadraat/quadraatcomp-webfont.eot);
+  src: url(/multiplejournalism-static/assets/fonts/quadraat/quadraatcomp-webfont.eot?#iefix) format('embedded-opentype'),
+       url(/multiplejournalism-static/assets/fonts/quadraat/quadraatcomp-webfont.svg#quadraatcompregular) format('svg'),
+       url(/multiplejournalism-static/assets/fonts/quadraat/quadraatcomp-webfont.woff) format('woff'),
+       url(/multiplejournalism-static/assets/fonts/quadraat/quadraatcomp-webfont.ttf) format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Icon Font - Base Declaration */
+@font-face {
+  font-family: icons;
+  src: url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.eot);
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Icon Font - Full Declaration with Formats */
+@font-face {
+  font-family: icons;
+  src: url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.eot);
+  src: url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.eot?#iefix) format("embedded-opentype"),
+       url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.woff) format("woff"),
+       url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.ttf) format("truetype"),
+       url(/multiplejournalism-static/assets/fonts/icons/icons-76160cf6b5441555a0670674a0a75362.svg?#icons) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Icon Font - Shared Styles */
+.icon-arrow-down:before,
+.icon-arrow-next:before,
+.icon-arrow-prev:before,
+.icon-arrow-right:before,
+.icon-arrow-up:before,
+.icon-check:before,
+.icon-close:before,
+.icon-dot:before,
+.icon-facebook:before,
+.icon-mail:before,
+.icon-menu:before,
+.icon-notch:before,
+.icon-twitter:before {
+  font-family: icons;
+  display: inline-block;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: baseline;
+  line-height: 1;
+  speak: none;
+  text-decoration: inherit;
+  text-transform: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Icon Content Codes */
+.icon-arrow-down:before { content: "\f100"; }
+.icon-arrow-next:before { content: "\f101"; }
+.icon-arrow-prev:before { content: "\f102"; }
+.icon-arrow-right:before { content: "\f103"; }
+.icon-arrow-up:before { content: "\f104"; }
+.icon-check:before { content: "\f105"; }
+.icon-close:before { content: "\f106"; }
+.icon-dot:before { content: "\f107"; }
+.icon-facebook:before { content: "\f108"; }
+.icon-mail:before { content: "\f109"; }
+.icon-menu:before { content: "\f10a"; }
+.icon-notch:before { content: "\f10b"; }
+.icon-twitter:before { content: "\f10c"; }
