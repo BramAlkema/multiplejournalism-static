@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hunger in LA | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/hunger-in-la">
+  <meta name="description" content="​A virtual news game that creates the feeling of 'being there' as a food crisis unfolds in Los Angeles.">
+  <meta property="og:title" content="Hunger in LA | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="​A virtual news game that creates the feeling of 'being there' as a food crisis unfolds in Los Angeles.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/hunger-in-la">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/46">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--immersion">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Hunger in LA</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--immersion">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/46"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/46" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/46" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/46" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/46" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#immersion" class="article-category__title js-article-category">Immersion</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-986">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1671">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1098">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Hunger in LA</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2012</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">United States</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Nonny de la Peña with Virtual Pyedog, USC Annenberg School of Communications and Journalism, and MxR Lab</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">hungerinla.com</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>​A virtual news game that creates the feeling of 'being there' as a food crisis unfolds in Los Angeles.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Hunger in LA</span> <span class="credits__meta">Interview with Nonny de la Peña</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-986">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>It is an immersive experience built in virtual reality using game building techniques. The project recreates a factual eyewitness account of a crisis in a food bank line at the First Unitarian Church in Los Angeles, where a man falls into a diabetic coma while waiting for food.<br></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/47">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Creator De la Peña wearing the goggles to play the virtual reality game</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>The virtual simulation is based on 7 minutes of unedited real time audio, recorded by a journalism student during the actual incident. The piece requires wearing special 3D virtual reality goggles and makes the user feel as if he or she is on scene as the crisis unfolds. Provided with a first person perspective through the goggles, the user <i>experiences</i> the news rather than seeing or reading it.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1671">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>In this virtual reality news game, the user can be present and walk around in the news story and interact with other characters in a fully immersive, simulated world.<br></p>
+            <p>To construct her story, De la Peña used game-development tools, Unity 3-D, a body-tracking system, and a head-mounted goggle display, along with live recorded audio.<br></p>
+            <blockquote class="blockquote">
+              <p>​"Viewers tried to touch non-existent characters and many cried at the conclusion of the piece"</p>
+            </blockquote>
+            <p>Hunger in LA puts the user literally in the middle of the story, waiting in line for food with other (virtual) clients of the food bank in downtown Los Angeles.<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="-7729">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/155">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb pt--triple">
+            <div class="credits credits--left">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <p>Although the graphics are not completely realistic, the VR goggles track steps and movements and, combined with real audio, provide a profoundly realistic experience that has triggered deeply emotional responses from users in the past.<br></p>
+            <p>Nonny de la Peña: "At the Sundance Film Festival in 2012, viewers of the piece tried to touch non-existent characters and many cried at the conclusion of the piece."</p>
+            <p>De la Peña calls Hunger in LA and example of <i>immersive journalism</i>, which she defines as "the use of virtual reality and 3-D environments, built in a gaming platform, to convey the sights, sounds and feelings of news."&nbsp;<br></p>
+            <p>She believes that immersive storytelling is the future of the news and an important way to engage young audiences with news stories.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-they-make-it-846">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did they make it?</h2>
+            <p>De la Peña is a former Newsweek correspondent and documentary filmmaker. Her purpose for Hunger in LA is to call attention to the growing issue of hunger in the United States.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">An immersive experience and 3D infographic about hunger</span> <span class="credits__meta">Nonny de la Peña</span>
+              </figcaption>
+            </div>
+            <p>De la Peña combines facts and figures with fact-based virtual recreations, which allow for a more intense and interactive encounter with the news.<br></p>
+            <p>She says: “I finished the piece with what I consider to be the first immersive 3D infographic, in which we show the real statistics of one in five Americans being hungry. And the situation is even worse for children.”</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1098">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Hunger in LA stands out as a powerful, innovative, and fully immersive news experience, based on real audio recorded at a food bank in Los Angeles.<br></p>
+            <p>Rather than using cold facts and figures, De la Peña takes a small scale human drama and turns it into an emotional confrontation with the everyday reality of hunger in one of the richest countries in the world.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="comparable-tools-155">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Comparable tools</h2>
+            <p>Also see <a title="Gone Gitmo" target="_blank" href="/case/gone-gitmo">Gone Gitmo</a> by the same author.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Project Syria</span> <span class="credits__meta">Nonny de la Peña</span>
+              </figcaption>
+            </div>
+            <p>JFK Reloaded puts the player in the role of Kennedy's assassin, Lee Harvey Oswald. The player is then scored on how closely one's version of the assassination matches the report of the Warren Commission: the first shot missed, the second hit JFK's neck, and the third one struck JFK’s head.<br></p>
+            <p>The Guardian’s The Refugee Challenge invites readers to confront the choices real refugees have to make, in order to better understand what it’s like to look for a safe haven in Fortress Europe.<br></p>
+            <p>Project Syria is Nonny’s latest immersive journalism piece, first shown at the World Economic Forum in Davos in 2014.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/desert-rain" title="Desert Rain" class="case-excerpt" data-country="united kingdom" data-year="1999" data-category="immersion" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/224"> <span class="case-excerpt__category">Immersion</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Desert Rain</h2>
+          <p class="case-excerpt__text">A theatrical multi-media installation based on real life sources that probes the...</p></a> <a href="/case/gone-gitmo" title="Gone Gitmo" class="case-excerpt" data-country="united states" data-year="2007" data-category="immersion" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/45"> <span class="case-excerpt__category">Immersion</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Gone Gitmo</h2>
+          <p class="case-excerpt__text">An immersive docu-game based on the Guantanamo Bay prison camp, originally designed...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

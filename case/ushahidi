@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Ushahidi | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/ushahidi">
+  <meta property="og:title" content="Ushahidi | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="Crowdsourcing real time crisis information from SMS, email, Twitter and RSS feeds and visualizing it on a dynamic interactive map.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/ushahidi">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/7">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--crowds">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Ushahidi</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--crowds">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/7"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/7" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/7" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/7" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/7" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#crowds" class="article-category__title js-article-category">Crowds</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-1070">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1752">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1161">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Ushahidi</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2008</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">Kenya</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Ory Okolloh, David Kobia, Erik Hersman, Juliana Rotich and many others</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">ushahidi.com</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>Crowdsourcing real time crisis information from SMS, email, Twitter and RSS feeds and visualizing it on a dynamic interactive map.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Creating a new narrative</span> <span class="credits__meta">Ushahidi</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-1070">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Ushahidi is an open source platform enabling users to share and crowdsource real time crisis information from multiple channels, including SMS, Twitter, RSS feeds and email. The software was developed during the violence that followed the December 2007 elections in Kenya.<br></p>
+            <p>The tool allows people to share vital information (mostly eyewitness accounts) on an online map or timeline during a crisis. Journalists can also use this information to produce news stories.</p>
+            <p>The tool was originally built to quickly spread information, increase transparency and lower the barriers to sharing stories.<br></p>
+            <p>Recently, Ushahidi has developed additional tools to improve the quality of real time crisis reporting and storytelling, including SwiftRiver (filtering and verifying real-time data from Twitter, SMS and email) and Crowdmap (free hosting an open source platform to crowdsource information in crisis situations).</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1752">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb">
+            <div class="credits credits--left">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>Ushahidi provides free software to install on your own server to share short bursts of information in crisis situations. The stories are uploaded by cell phone or laptop and visualized in real time on a shared map or timeline.<br></p>
+            <p>People commonly use Ushahidi to share photos or brief messages of what is happening around them during a disaster or in an emergency situation.&nbsp;</p>
+            <p>The platform has been used for election monitoring, crisis and emergency response during earthquakes, police violence, community building, but also for non-urgent matters (e.g. "where to find the best burger during the festival?").<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/8">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">An open source data collection platform</span> <span class="credits__meta">Ushahidi</span>
+              </figcaption>
+            </figure>
+            <p>Ushahidi democratizes access to information in crisis situations: every post, text, photo and video is made visible on a map, empowering people to use these primary sources to create their own multiple narratives.<br></p>
+            <p>Any community interested in sharing real time information can use the software to produce a timeline and visual map for sharing comments, observations and experiences.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-they-make-it-870">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did they make it?</h2>
+            <p>Ushahidi is Swahili for "testimony" or "witness" and was developed in early 2008 during a media blackout in the midst of Kenya’s post-election fallout. A team of Kenyan bloggers and a software developer decided to create an "open street map" platform to enable digital volunteers to aggregate, visualize and share eyewitness accounts.<br></p>
+            <p>Through the platform, Kenyans across the country could share and track reports of violence and peace efforts submitted via email and mobile phones.<br></p>
+            <p>In crisis situations, social media are now faster than NGOs and emergency managers, who run disaster-response efforts from centralized war rooms and release updated reports every few hours.<br></p>
+            <p>In the video on top of the page,&nbsp;the Ushahidi founders discuss the origins of the Ushahidi platform, citing their goal of getting critical information out fast to those who need it most.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1161">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Ushahidi democratizes information by enabling the diffusion of primary information - "many to many" instead of "one to many". Once the voices of ordinary people are visualized on the platform, surprising new insights and patterns emerge from multiple sources in real time.<br></p>
+            <p>Ushahidi also enables multiple narratives of the same story by making primary sources available to journalists and citizens. It contributes to better and more diverse information and promotes transparency and accountability.</p>
+            <blockquote class="blockquote">
+              <p>​The tool was originally built to quickly spread information, increase transparency and lower the barriers for sharing stories</p>
+            </blockquote>
+            <p>The site has grown to become an important global resource for (citizen) journalists in times of crisis. Mainstream media including Al Jazeera, The Guardian, BBC, ABC Queensland, Houston Chronicle, Chicago Sun-Times have engaged citizens in their official storytelling using Ushahidi tools.<br></p>
+            <p>For instance, Al Jazeera used Ushahidi to track violence in Gaza and to monitor the 2009 election in India. The platform is also used to gather first hand reports about epidemics around the globe, e.g. the swine flu outbreak.<br></p>
+            <p>In a fast-moving crisis situation, Ushahidi is now the tool of choice for mapping hard news, especially in areas with limited access, as was shown, for example, in the Philippines during the typhoon in the fall of 2013.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="comparable-tools-164">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/9">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple pdt--mobile">
+            <div class="credits credits--right--pull">
+              <span class="credits__title">The iHub headquarters of Ushahidi</span> <span class="credits__meta">Taylor Martyn</span>
+            </div>
+            <h2 class="mt--half">Comparable tools</h2>
+            <p>SwiftRiver&nbsp;provides tools for filtering and making sense of real-time information. It first gathers as many possible streams of data about a particular crisis event, then filters the data through both machine-based algorithms and humans to better understand the veracity and level of importance of every piece of information.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/10">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Connecting via several channels</span> <span class="credits__meta">Ushahidi</span>
+              </figcaption>
+            </figure>
+            <p>The Ushahidi team built Crowdmap for anyone who wants to easily run their own crowdsourcing site. It collects streams of information from cell phones, news, and the web, aggregates the information into a single platform, and visualizes it on a map and timeline.<br></p>
+            <p>Map.occupy.net is an example of a citizen media project using Ushahidi software to create independent community storytelling.</p>
+            <p>RTreporter, a similar tool to SwiftRiver, detects news on Twitter in real time via hashtags such as #forecasting #alerting #Twitter for Newsroom, etc. There are many other free Twitter news detecting platforms, but RTreporter focuses on how to facilitate the work of newsroom journalists.<br></p>
+            <p>Their goal is to help news organizations without a high level of resources to detect trends in social media to predict news that is not news <i>yet</i>. In the future the team plans to build a version for consumers and citizen journalists.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/trac-fm" title="TRAC FM" class="case-excerpt" data-country="uganda" data-year="2010" data-category="crowds" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/301"> <span class="case-excerpt__category">Crowds</span>
+          </figure>
+          <h2 class="case-excerpt__heading">TRAC FM</h2>
+          <p class="case-excerpt__text">A free, cloud based software platform using radio and SMS to track citizen reports...</p></a> <a href="/case/citizens-investigation" title="Citizens' Investigation" class="case-excerpt" data-country="china" data-year="2008" data-category="crowds" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/196"> <span class="case-excerpt__category">Crowds</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Citizens' Investigation</h2>
+          <p class="case-excerpt__text">A participatory journalism and crowdsourcing project launched by the world-renowned...</p></a> <a href="/case/reportagem-pa-blica" title="Reportagem Pública" class="case-excerpt" data-country="brazil" data-year="2013" data-category="crowds" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/54"> <span class="case-excerpt__category">Crowds</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Reportagem Pública</h2>
+          <p class="case-excerpt__text">Civic journalism through crowd funding and open editorial participation</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

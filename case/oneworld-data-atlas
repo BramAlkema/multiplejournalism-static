@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Data Atlas | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/oneworld-data-atlas">
+  <meta name="description" content="Online world maps visualizing existing data sets about major global development issues. Both the original data sets and the visualizations may be used free of charge.">
+  <meta property="og:title" content="Data Atlas | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="Online world maps visualizing existing data sets about major global development issues. Both the original data sets and the visualizations may be used free of charge.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/oneworld-data-atlas">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/328">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--data">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Data Atlas</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--data">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/328"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/328" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/328" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/328" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/328" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#data" class="article-category__title js-article-category">Data</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-976">Facts</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1661">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1088">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Data Atlas</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2014</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">Netherlands</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Ellen de Lange, Winny de Jong, Jason Yergeau and others</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">oneworld.nl</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>Online world maps visualizing existing data sets about major global development issues. Both the original data sets and the visualizations may be used free of charge.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Data Atlas</span> <span class="credits__meta">OneWorld</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-976">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>The OneWorld Data Atlas is an online tool exploring global development issues through maps and infographics based on data sets provided by the UN and other international organizations.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/330">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Charting a changing world, the Atlas includes data visualizations on issues such as food security, natural resources, and population growth. The maps and charts can be easily embedded on other websites and raw data sets may be downloaded free of charge.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1661">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/331">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple pdt--mobile">
+            <div class="credits credits--right--pull">
+              <span class="credits__title">Mapping the production of gold</span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>Many institutions working on development issues are starting to share their data. The World Bank, the World Food Programme and other UN departments, NGOs, and some Ministries of Foreign Affairs, for instance, have recently opened their databases to enrich public knowledge and enhance the transparency of their work. Together, these free data sets contain a wealth of information on how the world is changing.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/329">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>However, most data are not immediately comprehensible for the general public. The Data Atlas editors find, analyse, and review online data sets and make them accessible and meaningful for a general audience (in Dutch). The Data Atlas editors also clean up data sets and store them in CKAN, an open source data management system that enables easy sharing.<br></p>
+            <p>Through Drupal software, different kinds of maps (e.g. choroplete, heatmap, moving maps, bubbles) and charts (eg. histograms, bar charts, line charts) can be made to show the data in various ways. Users can click on timelines to see the world changing over time and compare different data.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="background-18">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/127">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb pt--triple pdt--mobile">
+            <div class="credits credits--left">
+              <span class="credits__title">OneWorld magazines</span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Background</h2>
+            <p>OneWorld is a journalism platform covering international development and sustainability for a Dutch audience (in Dutch). The Data Atlas is a tool developed by OneWorld to visualize data in various types of maps and charts in order to enrich more traditional blog stories. The Data Atlas allows readers to explore the raw facts behind stories.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/336">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Online readers may be moved by a news story or photo, but through the Data Atlas, they can check the statistical context of a story to better understand its importance. OneWorld plans to make the Data Atlas available for international use in the future.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="who-are-the-users-24">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Who are the users?</h2>
+            <p>The OneWorld Data Atlas has been developed for a broad range of users. News blog readers may use the Data Atlas to understand the news in context and further explore topics of interest. Each theme is highlighted from several different angles, for example, under "food security" there are data about hunger, obesity, meat consumption, and land grabbing. Users can click through timelines of the maps to see how the world has changed over time, but they can also compare data from different countries in a bar chart, read background information, or pull up related articles.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/333">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Obesity map</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Professional journalists and NGO-employees are using the Atlas to provide better information, for example by embedding maps on their own websites to enrich their own stories. Schools and universities also use the stats, maps and figures in the Data Atlas, because the data are offered in an accessible way. Some have incorporated the Data Atlas in their curriculum. Finally, the Data Atlas is of interest for data journalists, designers and developers, who prefer to use the data sources that the maps are built on and design their own visuals. They also reconstruct analyses and findings to double-check the findings.<br></p>
+            <p>In this way, the Atlas is constantly improved through the efforts of the data community. In 2015, a tool will be added to the Data Atlas for organizations wishing to produce quantitative maps on global issues in their own (corporate) identity.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1088">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>By making quantitative facts and figures available as context for news, analysis and anecdotes, the Data Atlas contributes to a more objective and fact-based information flow, especially as concerns the developing world. Furthermore, with the Data Atlas, OneWorld adds to openness and transparency in the development sector.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/332">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>The often polemic debate on spending taxpayers’ money on development aid is too rarely backed by facts. The Data Atlas makes huge amounts of data readily available and comprehensible, thus contributing to the quality of this debate. Although the tool is currently only available in Dutch, OneWorld is planning to make it available in English and possibly other world languages in the future.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="compare-96">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/335">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Compare</h2>
+            <p>-World Bank Data Viz: A Tumblr blog by the World Bank that collects visualizations about the fight against poverty.<br></p>
+            <p>-Gapminder.org: A widely used resource initiated by statistics professor Hans Rosling that visualizes the most important global trends.<br></p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/million-dollar-blocks" title="Million Dollar Blocks" class="case-excerpt" data-country="united states" data-year="2006" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/322"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Million Dollar Blocks</h2>
+          <p class="case-excerpt__text">A spatial information design project that looks at rarely accessible criminal...</p></a> <a href="/case/mapping-arms-data-mad-small-arms-and-ammunition-data-visualization" title="Mapping Arms Data" class="case-excerpt" data-country="brazil" data-year="2013" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/185"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mapping Arms Data</h2>
+          <p class="case-excerpt__text">An interactive data visualization that tracks arms and ammunition flows in order to...</p></a> <a href="/case/touchdoc-money-speed-inside-the-black-box" title="Money & Speed: Inside the Black Box" class="case-excerpt" data-country="netherlands" data-year="2011" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/107"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Money & Speed: Inside the Black Box</h2>
+          <p class="case-excerpt__text">An interactive iPad documentary, that integrates web links and real time data from...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

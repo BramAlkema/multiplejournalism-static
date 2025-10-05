@@ -4,7 +4,7 @@ const markdownItContainer = require('markdown-it-container');
 
 module.exports = function(eleventyConfig) {
   // Passthrough copy for static assets
-  eleventyConfig.addPassthroughCopy("93d0270");
+  eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("uploads");
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("*.css");

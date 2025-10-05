@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Cenci Journalism Project 参差计划 | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/cenci-journalism-project">
+  <meta name="description" content="A Chinese-language news website providing translated articles from all over the world concerning socio-political affairs.">
+  <meta property="og:title" content="Cenci Journalism Project 参差计划 | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="A Chinese-language news website providing translated articles from all over the world concerning socio-political affairs.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/cenci-journalism-project">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/262">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--networks">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Cenci Journalism Project 参差计划</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--networks">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/262"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/262" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/262" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/262" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/262" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#networks" class="article-category__title js-article-category">Networks</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-906">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1591">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1018">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Cenci Journalism Project<br>
+          参差计划</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2011</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">China</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Kang Xia, Qu Zhe and many others</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">icenci.com</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>A Chinese-language news website providing translated articles from all over the world concerning socio-political affairs.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Cenci's English editor Hu Shuting (胡舒婷)</span> <span class="credits__meta">Interview by Zoe Mengyang Zhao</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-906">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Cenci is a website offering Chinese-language translations of news reports, opinion pieces and interviews from various international media in nearly 30 languages. It centers primarily on global politics, humanities and social sciences. A team of 400 volunteers review and translate the content.&nbsp;</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/76">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Volunteers of Cenci</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Founded in August 2011 by a group of students at Beijing Foreign Studies University (BFSU), Cenci Journalism Project was initially a blog hosted on Sina.com that provided a selection of translated articles from various media outlets located all over the world.<br></p>
+            <p>In December 2011, it became an independent website providing original content on global politics, humanities and social sciences for Chinese audiences. Cenci’s popularity is rooted in the multilingual capacities of its volunteers, meaning that it goes beyond the reporting of mainstream Chinese or Western news organizations.</p>
+            <blockquote class="blockquote">
+              <p>​Any Language, Any Perspective, Anything Cenci</p>
+            </blockquote>
+            <p>In Chinese, the word Cenci (参差) implies difference, variety, diversity, highlighting the project’s wide scope in covering a range of social issues, in China and abroad, relating to the major themes of our time. Most foreign-to-Chinese online translation communities focus exclusively on English language media.<br></p>
+            <p>Cenci stands out by including news reports and commentaries from many non-English language sources, hence its slogan: “Any Language, Any Perspective, Anything Cenci.”</p>
+            <p>On July 15, 2014, Cenci was blocked in mainland China by the authorities unexpectedly. Most of the content in its archives was deleted.<br></p>
+            <p><br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1591">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/50">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple pdt--mobile">
+            <div class="credits credits--right--pull">
+              <span class="credits__title">Logo of the project</span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>The idea of Cenci originated from a critical moment in Chinese journalism: the crash of a high speed train in Wenzhou, Zhejiang Province, on July 23, 2011 that killed 40 people. Global news media reported on various aspects of the tragedy.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/263">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Cenci activity in the university campus</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Cenci’s founder, Kangxia, felt compelled to collect and present voices from around the globe to comprehend how the rest of the world perceives social affairs in China in a way that would be more inclusive, diverse, and systematic than through mainstream media. With Beijing Foreign Studies University offering training in dozens of non-English foreign languages, Cenci quickly recruited enough participants to undertake the translation tasks.</p>
+            <p>By November 2012, Cenci had been RSSed by over 70,000 readers and the number keeps growing. Its total number of contributors has reached 400. The team has translated and distributed over 2,000 articles in English, Arabic, German, French, Russian, Japanese, Italian, Spanish, Korean, and twenty other languages including Polish, Icelandic, Serbo-Croat, and Albanian. Every day, the website attracts approximately 5.000 visitors.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/264">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Cenci member presenting her ideas</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Despite its achievements, Cenci, like similar platforms, may face copyright challenges once it grows in popularity. A number of its translated contents are unauthorized, pushing Cenci to solve this problem if it is to continue to be an important news and opinion source for Chinese netizens eager to hear global voices.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1018">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Cenci plays a special role in diversifying the Chinese online news ecology, adding unique voices from around the world. In addition to English language articles, it translates content from dozens of languages, including less common languages, from around the world. Thanks to the rapidly growing number of overseas Chinese students and those studying a second language in China, Cenci has succeeded in providing a constant flow of fresh ideas about global issues and diverse perspectives on political news in the country.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/74">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">iCenci's logo</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>Unlike most news portals, Cenci is a volunteer-based youth organization. It is growing quickly, reflecting a global trend of youth activism, manifested in a concrete example of transnational network journalism.</p>
+            <p>Cenci has also transcended the conventional modes of online translation communities in China. It has established itself as a comprehensive project featuring not only second-hand articles but also original content including columns, special reports and interviews.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/mediapart" title="Mediapart" class="case-excerpt" data-country="france" data-year="2007" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/381"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mediapart</h2>
+          <p class="case-excerpt__text">A group of driven and accomplished French journalists in search of a new business...</p></a> <a href="/case/ma-dia-ninja-2" title="Mídia Ninja" class="case-excerpt" data-country="brazil" data-year="2011" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/353"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mídia Ninja</h2>
+          <p class="case-excerpt__text">An activist journalism network specializing in real time broadcasting.</p></a> <a href="/case/hong-kong-in-mediai-e-a-c-c-a-e-i" title="Hong Kong In-Media (香港獨立媒體）" class="case-excerpt" data-country="china" data-year="2004" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/189"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Hong Kong In-Media (香港獨立媒體）</h2>
+          <p class="case-excerpt__text">An open public platform, free from political intervention and commercial influence,...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

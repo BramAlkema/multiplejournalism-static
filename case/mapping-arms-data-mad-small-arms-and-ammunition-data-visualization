@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Mapping Arms Data | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/mapping-arms-data-mad-small-arms-and-ammunition-data-visualization">
+  <meta name="description" content="An interactive data visualization that tracks arms and ammunition flows in order to understand the global arms trade and inform public debate and policy interventions.">
+  <meta property="og:title" content="Mapping Arms Data | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="An interactive data visualization that tracks arms and ammunition flows in order to understand the global arms trade and inform public debate and policy interventions.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/mapping-arms-data-mad-small-arms-and-ammunition-data-visualization">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/185">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--data">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Mapping Arms Data</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--data">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/185"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/185" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/185" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/185" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/185" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#data" class="article-category__title js-article-category">Data</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-894">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1579">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1006">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Mapping Arms Data</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2013</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">Brazil</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Robert Muggah, the Igarapé Institute, Peace Research Institute Oslo (PRIO)</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">nisatapps.prio.org</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>An interactive data visualization that tracks arms and ammunition flows in order to understand the global arms trade and inform public debate and policy interventions.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Robert Muggah explains the online arms trade graphic</span> <span class="credits__meta">BBC</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-894">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Drawing from existing data sources, the project tracks&nbsp;the global trade in small arms, light weapons, and ammunition. Small arms are responsible for the vast majority of conflict deaths and homicidal violence across the globe yet the trade is poorly regulated and penetrated by illicit networks.&nbsp;<br></p>
+            <p>The MAD project increases transparency and promotes accountability in the global trade of small arms and ammunition in order to understand how they threaten security and development throughout the world.&nbsp;<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1579">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>The underlying data draws from over 37 publicly available sources documenting&nbsp;the authorized trade of arms and ammunition, covering 262 states and territories and aggregating over a million data points. Users can explore the interface to map weapons flows by country and year between 1992-2012.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/184">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/183">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Example of a visualization of the import of arms to the USA</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>The visualization displays the volume and composition of each country’s small arms transfers, differentiating between military and civilian weapons and ammunition. It also shows the direction of exports and imports and how much they are worth.<br></p>
+            <p>The opaque nature of much of the global small arms trade makes tracking these flows immensely difficult. MAD’s reliance on publicly available data makes it an imperfect guide to assessing the totality of the arms trade since much of it takes place in the shadows.<br></p>
+            <p>However, it represents the best effort by far to aggregate and visualize this data. One sees, for instance, a spike in the flow of Iranian arms exports to Sudan as fighting erupted in Darfur after 2003, or the huge inflow of arms and ammunition imports that followed Mexico’s declaration of a war on drugs in 2006.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-they-make-it-829">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/163">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb pt--triple pdt--mobile">
+            <div class="credits credits--left">
+              <span class="credits__title">Gun show at the George R. Brown Convention Center in Houston, U.S.A.</span> <span class="credits__meta">- M&R Photography</span>
+            </div>
+            <h2 class="mt--half">Why did they make it?</h2>
+            <p></p>
+            <p>Virtually all firearms begin their lives legally, but many are diverted into the illicit trade, fuelling organized crime and insurgency across the globe. The small arms market is remarkably opaque, poorly regulated, and linked to murky networks of armed groups. The absence of transparency, accountability and regulation is particularly shocking given the extraordinary human costs of gun violence.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/251">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">A gun enthusiast in Manila, Phillippines</span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>The MAD visualization shines a light on the $8.5 billion market in small arms and ammunition. It assembles specialized research carried out by governments and think tanks to inform activists, journalists and the wider public in an engaging and graphic manner.<br></p>
+            <p>Indeed, the tool was used by diplomats during United Nations negotiations for an Arms Trade Treaty in 2012 and 2013. By increasing public scrutiny over authorized imports and exports, the Igarapé Institute and&nbsp;PRIO&nbsp;hope to curb the unregulated&nbsp;proliferation of small arms and light weapons.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-we-select-it-1006">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>It is a pioneering effort to inform debate about the flow of small arms and ammunition, a topic that is often hidden from view. It has sparked global media coverage that helped people grasp the scale of the problem - and the involvement of their own governments in the arms trade.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Speakers of the Igarapé Institute and the Peace Research Institute Oslo (PRIO) discuss how small arms are obtained and moved around the world</span> <span class="credits__meta">INFO Summit 2012</span>
+              </figcaption>
+            </div>
+            <p>The MAD visualization has been viewed by over 4 million people and was the recipient of several international awards and nominations. It shows how technology can render huge amounts of publicly available information comprehensible in ways that shape debate and journalistic coverage with implications for global security and development.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="other-projects-4">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Other projects</h2>
+            <p>The Igarapé Institute has several other projects that employ technology in innovative ways to promote security and development, including:&nbsp;</p>
+            <p>-&nbsp;The Child Security Index, a smartphone app that allows Brazilian children and care-givers to map perceptions of everyday violence in their communities.</p>
+            <p>-&nbsp;The Citizen Security Database&nbsp;allows users to interact with trends in public security and safety interventions and explore micro-level data about individual projects&nbsp;across Latin America and the Caribbean.</p>
+            <p>-&nbsp;The Smart Policing initiative is an Android app that uses video, audio and GPS functions of phones to improve oversight over police in Brazil, Kenya and South Africa.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">A stark visualisation of the arms trade: The opening sequence of the film Lord of War (2005) follows the ‘life of a bullet’ from the point of view of the bullet</span> <span class="credits__meta">Andrew Niccol</span>
+              </figcaption>
+            </div>
+            <p>In 2014 and 2015 the MAD project is being upgraded. It will feature new data on arms and ammunition exports and imports. What is more, it will include a new filter that provides the average price for selected weapons per country. This will allow users to see how street prices for firearms vary from setting to setting. Such information is useful in predicting the demand for guns, and possibly future hot spots around the world.&nbsp;<br></p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/million-dollar-blocks" title="Million Dollar Blocks" class="case-excerpt" data-country="united states" data-year="2006" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/322"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Million Dollar Blocks</h2>
+          <p class="case-excerpt__text">A spatial information design project that looks at rarely accessible criminal...</p></a> <a href="/case/oneworld-data-atlas" title="Data Atlas" class="case-excerpt" data-country="netherlands" data-year="2014" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/328"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Data Atlas</h2>
+          <p class="case-excerpt__text">Online world maps visualizing existing data sets about major global development...</p></a> <a href="/case/touchdoc-money-speed-inside-the-black-box" title="Money & Speed: Inside the Black Box" class="case-excerpt" data-country="netherlands" data-year="2011" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/107"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Money & Speed: Inside the Black Box</h2>
+          <p class="case-excerpt__text">An interactive iPad documentary, that integrates web links and real time data from...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

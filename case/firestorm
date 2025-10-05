@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Firestorm | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/firestorm">
+  <meta name="description" content="An online interactive story about a family's harrowing experience during a severe bush fire in Tasmania that integrates various media in visually innovative ways.">
+  <meta property="og:title" content="Firestorm | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="An online interactive story about a family's harrowing experience during a severe bush fire in Tasmania that integrates various media in visually innovative ways.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/firestorm">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/23">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--visual">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Firestorm</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--visual">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/23"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/23" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/23" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/23" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/23" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#visual" class="article-category__title js-article-category">Visual</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-996">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1681">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1108">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Firestorm</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2013</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">United Kingdom</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">The Guardian; Jon Henley, Laurence Topham, Daan Louter, Francesca Panetta, Jonathan Richards, Mark McCormick, Iain Chambers, Jane Ulman, Mark Heather, Julia Chapman, Kim Chakanetsa</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">guardian.co.uk</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>An online interactive story about a family's harrowing experience during a severe bush fire in Tasmania that integrates various media in visually innovative ways.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Bushfire at Dunalley</span> <span class="credits__meta">The Guardian</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-996">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Firestorm takes the dramatic personal story of the Holmes family during a bush fire as a narrative anchor and embeds this human story in a broader context of the history of bush fires in Tasmania and global climate change.<br></p>
+            <p>It makes use of various media - including audio and video footage, interviews, writing, photography and maps - to produce a visually compelling and immersive interactive story. This interactive story seeks a fine balance between personal and contextual information, interaction and linear flow.</p>
+            <p>The project is the result of an intense collaboration between writer Jon Henley and the interactive team at The Guardian. In connection with the launch of Firestorm, Guardian Books published an accompanying eBook relating the story of the town of Dunalley.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1681">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/81">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple pdt--mobile">
+            <div class="credits credits--right--pull">
+              <span class="credits__title">A view in text and visuals of the history of bush fires in Australia</span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>During the great bush fire, Grandpa Tim Holmes used his smartphone to take pictures of his wife Tammy and five grandchildren clinging onto the jetty of a lake where they sought refuge from the fire. Right after the fires, the pictures of the Holmes family became world famous, an event that provides the starting point for the multimedia storytelling in Firestorm.<br></p>
+            <div class="section-media soundcloud">
+              <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137121146%3Fsecret_token%3Ds-VMNzI&color=ff5500&auto_play=false&hide_related=false&show_artwork=true"></iframe>
+              <div class="credits credits--right">
+                <span class="credits__title">Producer Francesca Panetta explains what Firestorm adds to journalism</span> <span class="credits__meta"></span>
+              </div>
+            </div>
+            <p>The project for an interactive story was launched by The Guardian UK in collaboration with The Guardian Australia, which provided the opportunity to share resources and create a unique and labor-intensive story. The Guardian turned the Holmes family images into a rich magazine-like visual interactive, reconstructing the Holmes’ experience of that dark day.<br></p>
+            <p>Firestorm creatively embeds a variety of sources in a compelling linear storyline that uses the dramatic photos shot by the family to bring to life a wealth of contextual information. The project reads like an e-book, divided in chapters and enriched with loads of embedded content that smoothly pops-up to enhance the power of storytelling.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/27">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">A still of the video of Grandmother Tammy Holmes reliving that dark day</span> <span class="credits__meta">The Guardian</span>
+              </figcaption>
+            </figure>
+            <p>Firestorm, which took three months to produce, credits twenty-three people. See this analysis by The Poynter Institute: "How on-going teamwork fuelled The Guardian's Firestorm interactive". Although few newsrooms have the kind of resources that The Guardian was able to commit, the inspiring experiment with layered, multimedia storytelling that Firestorm represents can be replicated on a smaller scale.</p>
+            <p>The keys to its success were early and realistic planning, and smooth collaboration between editorial, design and technical departments, which allowed the story to evolve alongside technical editing.<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-we-select-it-1108">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Firestorm is selected for its creative and innovative multimedia storytelling. It connects compelling visuals and texts to develop</p>
+            <div class="section-media soundcloud">
+              <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137119527%3Fsecret_token%3Ds-V4ZnU&auto_play=false&hide_related=false&visual=true"></iframe>
+              <div class="credits credits--right">
+                <span class="credits__title">Producer Francesca Panetta</span> <span class="credits__meta">The Guardian</span>
+              </div>
+            </div>
+            <p>a contextual story about climate change and smoothly embeds video and audio sources in a non-fiction narrative to create a new kind of immersive reading experience.<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="comparable-visual-interactives-16">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Comparable visual interactives</h2>
+            <p>A few similar interactive visual storytelling are Snow Fall,&nbsp;Last 32 hours of Martin Luther King (multimedia storytelling), and The New York Times’ Boston Marathon attack multimedia story.<br></p>
+            <p>Other fine examples are Medium (online platform for stories written by independent journalists and writers), and The Magazine (online paid-subscribers magazine, based on a theme with five medium to long articles of independent authors).</p>
+            <p>TED Books are shorter than a novel, but longer than a magazine article. TED Books are typically under 20,000 words and embed audio, video and social features in every book.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/the-nisoor-square-shootings" title="The Nisoor Square Shootings" class="case-excerpt" data-country="united states" data-year="2010" data-category="visual" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/131"> <span class="case-excerpt__category">Visual</span>
+          </figure>
+          <h2 class="case-excerpt__heading">The Nisoor Square Shootings</h2>
+          <p class="case-excerpt__text">A piece of graphic journalism, which reconstructs the Blackwater Killings in 2007 on...</p></a> <a href="/case/next-media-animation" title="Next Media Animation" class="case-excerpt" data-country="taiwan" data-year="2007" data-category="visual" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/34"> <span class="case-excerpt__category">Visual</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Next Media Animation</h2>
+          <p class="case-excerpt__text">Next Media Animation (NMA) provides the "missing images" of the news by producing...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Metropolis TV | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/metropolis">
+  <meta name="description" content="A weekly TV foreign affairs magazine and website made by a global network of 50 video journalists contributing unique stories within the same broad theme.">
+  <meta property="og:title" content="Metropolis TV | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="A weekly TV foreign affairs magazine and website made by a global network of 50 video journalists contributing unique stories within the same broad theme.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/metropolis">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/85">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--networks">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Metropolis TV</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--networks">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/85"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/85" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/85" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/85" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/85" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#networks" class="article-category__title js-article-category">Networks</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-1026">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1711">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1138">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Metropolis TV</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2008</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">Netherlands</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Stan van Engelen, Bregtje van der Haak, Alex Klippel, Loe Schout, IJsbrand van Veelen and many others at VPRO Television. Supported by Hivos and NCDO.</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">metropolistv.nl</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>A weekly TV foreign affairs magazine and website made by a global network of 50 video journalists contributing unique stories within the same broad theme.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Trailer of Metropolis TV magazine</span> <span class="credits__meta">VPRO television</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-1026">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Metropolis is a global network of 50 video journalists in 45 countries managed from The Netherlands. Every week, it brings together the director's cuts of about 10 short video reports from various countries on one shared theme on a website.<br></p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Producer Alex Klippel talks about his favorite episode</span> <span class="credits__meta"></span>
+              </figcaption>
+            </div>
+            <p>These reports are also recut into a succesful 30-minute weekly TV magazine for youth. Metropolis has worked with over 90 journalists and filmmakers in 80 countries in the past five years.</p>
+            <p>The bilingual website (Dutch/English) offers options to browse by country, topic, or correspondent, and includes hundreds of contributions from correspondents in countries like Azerbaijan, Swaziland, Yemen, Greenland, Ecuador, Mongolia and Venezuela on topics ranging from police and teachers, to obesity, polygamy, and the perfect body.<br></p>
+            <blockquote class="blockquote">
+              <p>​​Remarkable stories from daily life around the world</p>
+            </blockquote>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Menstruation in Kenya</span> <span class="credits__meta"></span>
+              </figcaption>
+            </div>
+            <p>The project was initiated by VPRO public television in The Netherlands to bring a wider variety of global voices to the fore and is supported by NGOs with an interest in diversity and freedom of expression. Metropolis has run successfully for five years and resulted in a remarkable collection of authentic and intimate stories from the daily lives of citizens all over the world.<br></p>
+            <p>The Metropolis TV format has been adapted for several countries, including Belgium, Bulgaria, Greece and Nicaragua.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1711">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/83">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb pt--triple pdt--mobile">
+            <div class="credits credits--left">
+              <span class="credits__title"></span> <span class="credits__meta">MetropolisTV/VPRO</span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>The Metropolis team consists of one executive producer, one commissioning editor, a video editor and four regional producers. It is based in The Netherlands and issues a weekly call to the network for story ideas relating to a specific theme.<br></p>
+            <div class="section-media soundcloud">
+              <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/167319189%3Fsecret_token%3Ds-ShdYq&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe>
+              <div class="credits credits--right">
+                <span class="credits__title">Klippel explains why Metropolis works with small crews</span> <span class="credits__meta"></span>
+              </div>
+            </div>
+            <p>Themes vary widely and range from occasional news subjects with a global impact (e.g. the election of a new pope, the Olympic games) to human interest and broader cultural themes (e.g. homosexuality, education).<br></p>
+            <p>In the past, calls for story ideas have included questions such as: What is it like to be a fifteen-year-old girl in your country? What does it take to get a driver’s licence? Could you profile an "outsider" in your country? An adolescent? A gay person? An addict?</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/82">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Presenter Stef Biemans</span> <span class="credits__meta">MetropolisTV/VPRO</span>
+              </figcaption>
+            </figure>
+            <p>Local correspondents look for remarkable and previously unreported stories within these broad themes and pitch them to the Metropolis editors. The ten best story ideas within one theme are then selected, commissioned, produced by the video journalists in their country, uploaded to the Metropolis server in The Netherlands, and subtitled in Dutch and English.</p>
+            <p>The local directors are paid a competitive rate in their countries for producing, shooting, directing, and editing the stories. The stories are published full length (6-10 minutes) as "director’s cuts" on the bilingual Metropolis website and also recut into a 30 minute weekly foreign affairs TV magazine on Dutch national television.<br></p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">How much does Metropolis pay correspondents?</span> <span class="credits__meta"></span>
+              </figcaption>
+            </div>
+            <p>Occasionally, Metropolis uses the network to produce specials and feature length documentaries, e.g. the 60 minute documentary “Coming to the City,” which gave the abstract trend of urbanization a human face by profiling five people in five countries who moved to the city from the countryside.</p>
+            <p>The secret of Metropolis is the quality of its network of excellent video journalists, who have been carefully recruited through open calls, film festivals, film schools, and journalism organizations. They are then further trained and coached by the regional producers in The Netherlands.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="-8002">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/86">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb pt--triple">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <p><br></p>
+            <p>From the EBU (European Broadcasting Union) jury report for the 7 best public TV formats of 2011: “Metropolis is a factual reality show and online project, which has a unique approach towards foreign affairs reporting aimed at capturing remarkable stories from daily life around the world.”</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1138">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Metropolis’ modular project structure is flexible and innovative and makes it suitable for use on various platforms and in diverse cultural contexts. Multiple short video stories provide building blocks that can be "welded" together in a weekly TV program and/or watched individually on the Internet and mobile platforms. Broadcasters can add their own local anchor to construct a "glocalized" TV magazine with high quality global reporting at low cost.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Emancipation in Pakistan</span> <span class="credits__meta"></span>
+              </figcaption>
+            </div>
+            <p>This networked approach to global affairs reporting and the practice of archiving all directors' cuts online results in a growing collection of intimate video stories, which adds insight into the peculiarities of everyday life and common human experience all over the world. By providing up to 50 perspectives on the same issue, Metropolis presents a truly global range of voices, some of them from countries where freedom of expression is limited and little information is available through regular news channels.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/84">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">A striking figure of South America in Metropolis</span> <span class="credits__meta">MetropolisTV/VPRO</span>
+              </figcaption>
+            </figure>
+            <p>Online, the individual reports can be navigated in a variety of ways, depending on the viewer’s interests. Watch it as a meticulously crafted&nbsp; 30-minute TV programme or watch individual items online or via mobile phone. The Metropolis website features an original yet practical search engine.</p>
+            <p>Producer Alex Klippel: "My dream for Metropolis is a big server with all stories combined globally and one bureau in every country, tapping from the server to make its own programme locally. It is not easy, but possible. We have to just do it!"</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="compare-112">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Compare</h2>
+            <p>Taking advantage of global digital networks, many new journalism projects are experimenting with new possibilities to cut costs and add quality and cultural diversity to foreign reporting at the same time. While many traditional institutions are downsizing or eliminating foreign buros, several online platforms are now specializing in high quality global reporting presenting a multiplicity of&nbsp; voices: Global Voices, Global Post, VJ Movement, <a href="http://staging.multiplejournalism.org/Associated%2520Reporters%2520Abroad">Associated Reporters Abroad</a>, Africa Interactive, <a title="" target="_blank" href="/case/chimu">Chimurenga</a> and the TED Open Translation Project.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/mediapart" title="Mediapart" class="case-excerpt" data-country="france" data-year="2007" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/381"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mediapart</h2>
+          <p class="case-excerpt__text">A group of driven and accomplished French journalists in search of a new business...</p></a> <a href="/case/ma-dia-ninja-2" title="Mídia Ninja" class="case-excerpt" data-country="brazil" data-year="2011" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/353"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mídia Ninja</h2>
+          <p class="case-excerpt__text">An activist journalism network specializing in real time broadcasting.</p></a> <a href="/case/hong-kong-in-mediai-e-a-c-c-a-e-i" title="Hong Kong In-Media (香港獨立媒體）" class="case-excerpt" data-country="china" data-year="2004" data-category="networks" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/189"> <span class="case-excerpt__category">Networks</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Hong Kong In-Media (香港獨立媒體）</h2>
+          <p class="case-excerpt__text">An open public platform, free from political intervention and commercial influence,...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

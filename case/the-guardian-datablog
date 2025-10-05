@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>The Guardian Datablog | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/the-guardian-datablog">
+  <meta name="description" content="The first systematic effort to incorporate publicly available data sources into news reporting.">
+  <meta property="og:title" content="The Guardian Datablog | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="The first systematic effort to incorporate publicly available data sources into news reporting.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/the-guardian-datablog">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/19">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--data">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">The Guardian Datablog</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--data">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/19"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/19" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/19" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/19" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/19" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#data" class="article-category__title js-article-category">Data</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-1019">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1704">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1131">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">The Guardian Datablog</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2009</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">United Kingdom</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Simon Rogers and Mona Chalabi</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">theguardian.com</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>The first systematic effort to incorporate publicly available data sources into news reporting.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">What is data journalism?</span> <span class="credits__meta">The Guardian</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-1019">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Making the numbers make sense – according to Simon Rogers, this is what data journalism is all about. When he launched the Datablog in 2009, it was intended to be a small blog offering the full datasets behind news stories in The Guardian newspaper.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/20">
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Every person in England and Wales visualised as a dot on a map</span> <span class="credits__meta">The Guardian</span>
+              </figcaption>
+            </figure>
+            <p>It now comprises an entire news section highlighting data driven stories, searchable databases, data visualizations, and tools for exploring data. Journalists at Datablog use Google spreadsheets to share the full data behind their work, visualize and analyze that data, and provide stories for the newspaper and the website.</p>
+            <p>The Guardian has integrated data into their news production process in an approach that distinguishes them from many other newspapers. Through the Datablog, the Guardian provides access to the raw statistics behind the news and makes it exportable in whatever form the user desires.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1704">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/21">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>Big data enables journalists both to tell stories they could not tell before, and to tell these stories more effectively . Technology enables access to large amounts of information, much of it published by government agencies.<br></p>
+            <p>According to Datablog's founder Simon Rogers, data journalism can be anything really. <i>"</i>It can be these enormous kind of data analysis projects. Sometimes it can just be <i>finding the data.</i> It's the stuff we all learned at journalism college, that is about finding information."<br></p>
+            <blockquote class="blockquote">
+              <p>​"These are the key numbers. '<i>What do you think?</i>'"</p>
+            </blockquote>
+            <p>Information is not a mess of numbers. Traditionally, journalists who were afraid of maths would avoid raw data. As Rogers observes, "Our job can just be revealing that data and saying: 'These are the key numbers.&nbsp;<i>What do you think?'"</i></p>
+            <p>Datablog makes it easy for everyone - Guardian journalists, other reporters and the public at large - to navigate through large datasets. Access to this information makes it possible to generate different types of stories.&nbsp;</p>
+            <p>Depending on the characteristics of a particular story, Datablog journalists produce a comprehensive article for print, a video news item, or a set of data visualization for the web.<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-they-make-it-864">
+          <img width="1024" alt="" src="/uploads/shared/images/scaled/case_section/22">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb pt--triple">
+            <div class="credits credits--left">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did they make it?</h2>
+            <p>Datablog aims to make it easier for people to understand data. It enables journalists to analyze open data sources, pick out the most essential stories, and break them down for their audience.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Reading the riot</span> <span class="credits__meta">The Guardian</span>
+              </figcaption>
+            </div>
+            <p>Datablog aims to create opportunities for crowdsourcing research and citizen journalism. For example, the site posted data about British&nbsp;politicians’ travel expense claims, then asked the public to help them match what a politician was doing on that day with their corresponding expense claim.<br></p>
+            <p>The Guardian's related "Free Our Data" campaign has pushed the British government to review its access to information policies. Examples of citizen journalism on Datablog measure up to a high standard of quality journalism that integrates data into the news production process.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1131">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Datablog is excellent at data visualization. Among the first news organizations worldwide to integrate data into news production process, The Guardian is by far the most innovative pioneer in data visualization, interactive mapping and crowdsourcing. This has led to a number of essential stories, such as those about the war in Iraq.<br></p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="compare-108">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Compare</h2>
+            <p>The website visual.ly is a platform that connects designers, journalists, animators and developers with clients, featuring cloud-based collaboration tools. They are capable of delivering high-quality content quickly and on a large scale.<br></p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/374">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>The platform also has a blog about data visualization. Data journalists and PhD-students in subjects such as Computer Science Visualization publish news about developments in the field.<br></p>
+            <p>Another comparable platform is helpmeviz.com, which helps people understand data visualizations. Its creators designed the site to facilitate discussion, debate and collaboration from the data visualization community. Finally, there is also Gapminder for a facted-based world view.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/million-dollar-blocks" title="Million Dollar Blocks" class="case-excerpt" data-country="united states" data-year="2006" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/322"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Million Dollar Blocks</h2>
+          <p class="case-excerpt__text">A spatial information design project that looks at rarely accessible criminal...</p></a> <a href="/case/mapping-arms-data-mad-small-arms-and-ammunition-data-visualization" title="Mapping Arms Data" class="case-excerpt" data-country="brazil" data-year="2013" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/185"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Mapping Arms Data</h2>
+          <p class="case-excerpt__text">An interactive data visualization that tracks arms and ammunition flows in order to...</p></a> <a href="/case/oneworld-data-atlas" title="Data Atlas" class="case-excerpt" data-country="netherlands" data-year="2014" data-category="data" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/328"> <span class="case-excerpt__category">Data</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Data Atlas</h2>
+          <p class="case-excerpt__text">Online world maps visualizing existing data sets about major global development...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>

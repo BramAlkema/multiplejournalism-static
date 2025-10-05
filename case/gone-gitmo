@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Gone Gitmo | Multiple Journalism</title>
+  <meta http-equiv="cleartype" content="on">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="/case/gone-gitmo">
+  <meta name="description" content="An immersive docu-game based on the Guantanamo Bay prison camp, originally designed for Second Life and now available in Unity, based on actual reporting and facts.">
+  <meta property="og:title" content="Gone Gitmo | Multiple Journalism">
+  <meta property="og:site_name" content="Multiple Journalism">
+  <meta property="og:description" content="An immersive docu-game based on the Guantanamo Bay prison camp, originally designed for Second Life and now available in Unity, based on actual reporting and facts.">
+  <meta property="og:url" content="http://multiplejournalism.org/case/gone-gitmo">
+  <meta property="og:image" content="http://multiplejournalism.org/uploads/shared/images/scaled/case_header/45">
+  <meta property="og:locale" content="en_US">
+  <link rel="stylesheet" href="/93d0270/css/compiled/prod/base.css">
+  <script src="/93d0270/js/build/prod/modernizr.js"></script>
+  <link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body id="body" class="page--case category--immersion">
+  <div class="wrapper js-nav-item" id="top">
+    <header>
+      <nav class="top-nav">
+        <ul class="unstyled-list">
+          <li class="">
+            <a href="/">Home</a>
+          </li>
+          <li class="">
+            <a href="/essay">Essay</a>
+          </li>
+          <li class="is-current">
+            <a href="/cases">Cases</a><span class="top-nav__seperator icon-arrow-right"></span> <span class="top-nav__case">Gone Gitmo</span>
+          </li>
+          <li class="">
+            <a href="/about">About</a>
+          </li>
+          <li class="nav--idea right hide-on-mobile">
+            <a href="/contribute">Submit your idea</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="category--immersion">
+      <div class="article-image">
+        <div class="header-image picturefill-background">
+          <span data-src="/uploads/shared/images/scaled/header_image_small/45"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium/45" data-media="(min-width: 680px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_medium_large/45" data-media="(min-width: 1080px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_large/45" data-media="(min-width: 1440px)"></span> <span data-src="/uploads/shared/images/scaled/header_image_extreme/45" data-media="(min-width: 1920px)"></span>
+        </div>
+        <div class="article-category js-article-category-container">
+          <a href="/essay#immersion" class="article-category__title js-article-category">Immersion</a>
+        </div>
+      </div>
+      <article class="content grid">
+        <nav class="article-nav">
+          <span class="article-nav__title js-nav-toggle">Jump to topic<b class="article-nav__toggle"></b></span>
+          <ul class="article-nav__nav unstyled-list">
+            <li class="is-current">
+              <a href="#top">Top</a>
+            </li>
+            <li>
+              <a href="#facts">Facts</a>
+            </li>
+            <li>
+              <a href="#what-is-it-987">Description</a>
+            </li>
+            <li>
+              <a href="#how-does-it-work-1672">Production</a>
+            </li>
+            <li>
+              <a href="#why-did-we-select-it-1099">Selection</a>
+            </li>
+            <li>
+              <a href="#read-next">Related cases</a>
+            </li>
+            <li>
+              <a href="#comments">Comments</a>
+            </li>
+          </ul>
+        </nav>
+        <header class="article-facts grid__item eleven-twelfths push--one-twelfth p--intro pt--quad js-nav-item" id="facts">
+          <span class="article__spacer-right">&nbsp;</span>
+          <h1 class="article-title">Gone Gitmo</h1>
+          <div class="grid">
+            <aside class="grid__item one-quarter lap--one-whole article-meta">
+              <span class="article-meta__title">When</span> <span class="article-meta__data">2007</span> <span class="article-meta__title">Where</span> <span class="article-meta__data">United States</span> <span class="article-meta__title">Who</span> <span class="article-meta__data js-read-more">Nonny de la Peña, Peggy Weil</span> <span class="article-meta__title">Website</span> <span class="article-meta__data">gonegitmo.com</span>
+            </aside>
+            <section class="article-intro section grid__item three-quarters lap--one-whole">
+              <p>An immersive docu-game based on the Guantanamo Bay prison camp, originally designed for Second Life and now available in Unity, based on actual reporting and facts.</p>
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <div class="credits credits--inline">
+                <span class="credits__title">Nonny de la Peña explains the Gone Gitmo experience</span> <span class="credits__meta">VPRO Backlight</span>
+              </div>
+            </section>
+          </div>
+          <div class="social-sharing">
+            Share on Facebook Share on Twitter
+          </div>
+        </header>
+        <div class="js-nav-item" id="what-is-it-987">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">What is it?</h2>
+            <p>Guantánamo Bay, Cuba - colloquially known as 'Gitmo' - is one of the world’s most famous and controversial prisoner-of-war camps, home to hundreds of detainees from the United States’ 'War on Terror'.<br></p>
+            <p>Following on her&nbsp;2004 documentary Unconstitutional&nbsp;about Guantánamo Bay, journalist Nonny de la Peña teamed up with artist Peggy Weil to make Gone Gitmo.</p>
+            <p>A virtual but accessible version of the prison, in contrast to the real but inaccessible prison, Gone Gitmo is a fact-based simulation of Guantanamo Bay. The 'player' enters as a prisoner and discovers what’s it like to be imprisoned in the camp and lose his or her civil rights.<br></p>
+            <p>Since journalists are not allowed inside the camp, the reconstruction is based on interviews with former prisoners, videos and photos from a variety of official sources and legal materials that detail the plight of Gitmo prisoners.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="how-does-it-work-1672">
+          <section class="section grid__item ten-twelfths push--two-twelfths p--normal--more-right bg--dark mb">
+            <div class="credits credits--left">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">How does it work?</h2>
+            <p>The original version of Gone Gitmo, no longer running, was a virtual re-creation of the Guantánamo Bay prison in Second Life, a popular virtual world platform. In 2013, De la Peña and Weil recreated Gone Gitmo&nbsp;in Unity3D as a docu-game and first person experience.</p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Full tour experience</span> <span class="credits__meta">Nonny de la Peña</span>
+              </figcaption>
+            </div>
+            <p>In the game, users go through a virtual detention inside the prison camp and are immersed in the experience of being taken prisoner and losing their habeas corpus rights. The player’s avatar is briefly bound, hooded and forced to kneel in the same way that detainees were taken to the prison.</p>
+            <p>After arriving in the virtual replica of Camp X-Ray, players are free to explore the camp where various screens play clips from De la Peña’s film 'Unconstitutional' (2004) and from original U.S. Defense Department footage in order to create a spatial narrative.</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="why-did-they-make-it-847">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Why did they make it?</h2><br>
+            <p>Nonny de la Peña is one of the founders of immersive journalism, which uses new technologies to bring users a sense of 'being there'. She defines immersive journalism as "the use of virtual reality and 3-D environments, built in a gaming platform, to convey the sights, sounds and feelings of news.”<br></p>
+            <p>Participants can enter the news stories as themselves, as visitors gaining first-hand access to a virtual version of the location of the story - or as a character depicted in the story. In this way, they can have a different level of understanding from reading a print story or watching news on television or online.</p>
+            <figure class="section-media">
+              <img width="450" alt="" src="/uploads/shared/images/scaled/case_section_media/156">
+              <figcaption class="credits credits--right">
+                <span class="credits__title"></span> <span class="credits__meta"></span>
+              </figcaption>
+            </figure>
+            <p>De la Peña believes that immersive storytelling is the future of the news and an important way to engage young audiences with global news stories. “We’re looking at a new medium that’s here to stay, and we need to be thinking about how to use it”, she said at a conference at USC Annenberg in 2011.<br></p>
+            <p>“How many kids are gaming? All of them. This is not a unique batch of individuals. It’s a growing audience. This has become a critical place where we can still tell news stories”, she said, comparing the state of gaming to the emergence of radio and television.</p>
+          </section>
+        </div>
+        <div class="js-nav-item mt--mobile" id="why-did-we-select-it-1099">
+          <div class="logo--small__top"></div>
+          <section class="why-did-we bg--light">
+            <div class="logo--small__bottom mb"></div>
+            <h2 class="mt--half">Why did we select it?</h2>
+            <p>Gone Gitmo is a pioneering journalism project using fact-based virtual reality to tell an important news story about an inaccessible prison camp. It makes the invisible visible.<br></p>
+            <p>Furthermore, by offering a first person perspective on a hidden news event, Gone Gitmo opens up a range of new possibilities for users to be immersed in the news and to engage with it actively. Through immersion in virtual environments and first person storytelling, docu-game Gone Gitmo adds an innovative dimension to the news.<br></p>
+            <p>Although the building of virtual worlds for news games is still costly and time-consuming, we expect it will become more prevalent and influential in the future.</p>
+            <div class="section-media soundcloud">
+              <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/164542286&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
+              <div class="credits credits--right">
+                <span class="credits__title">Nonny de la Peña about virtual reality</span> <span class="credits__meta">VPRO Blacklight</span>
+              </div>
+            </div>
+            <p>Besides prototyping immersive news stories, De la Peña also contributes actively to the discovery of best practices and the discussion about ethics for a largely unexplored field.<br></p>
+            <p>De la Peña: “For example, there is an issue here when you have virtual bodies - is it too subjective? How do you retain objectivity? How do you edit an immersive journalism story? You have to take pieces out and leave pieces in. There are always editorial decisions. What are the best practices for doing it in a virtual world?”</p>
+          </section>
+        </div>
+        <div class="js-nav-item" id="some-other-docu-games-32">
+          <div class="grid__item one-twelfth grid-spacer pt--triple">
+            <div class="bg-spacer bg--white"></div>
+          </div>
+          <section class="section section--default grid__item ten-twelfths p--normal mb">
+            <div class="credits credits--right--pull">
+              <span class="credits__title"></span> <span class="credits__meta"></span>
+            </div>
+            <h2 class="mt--half">Some other docu-games</h2>
+            <p>Also see our case description&nbsp;of &nbsp;<a title="Hunger in LA" target="_blank" href="/case/hunger-in-la">Hunger in LA</a> by Nonny de la Peña.</p>
+            <p>JFK Reloaded puts the player in the role of Kennedy's assassin, Lee Harvey Oswald. The player is then scored on how closely one's version of the assassination matches the report of the Warren Commission: first shot missed, second hit JFK's neck and third on the head.<br></p>
+            <div class="section-media">
+              <div class="video-container">
+                <span class="play-button"></span>
+              </div>
+              <figcaption class="credits credits--right">
+                <span class="credits__title">Project Syria</span> <span class="credits__meta">Nonny de la Peña</span>
+              </figcaption>
+            </div>
+            <p>According to the company, the primary aim of the game was "to establish the most likely facts of what happened on 1963-11-22 by running the world’s first mass-participation forensic construction", the theory being that a player could help prove that Lee Harvey Oswald had the "means and the opportunity to commit the crime", and thus help prove the Warren Commission's findings.</p>
+            <p>The Guardian’s The Refugee Challenge invites the reader to make the choices real refugees have to make. After each choice players get a new challenge to solve, so they’ll get closer to the experience of looking for safety in Fortress Europe.<br></p>
+            <p>Project Syria is Nonny’s latest immersive journalism piece, first shown at the World Economic Forum in Davos in 2014.</p>
+          </section>
+        </div>
+      </article><span class="article-end">&nbsp;</span>
+      <div class="read-next-container" id="read-next">
+        <aside class="content excerpt-container read-next no-packery">
+          <h2 class="related-cases">Related cases</h2><a href="/case/desert-rain" title="Desert Rain" class="case-excerpt" data-country="united kingdom" data-year="1999" data-category="immersion" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/224"> <span class="case-excerpt__category">Immersion</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Desert Rain</h2>
+          <p class="case-excerpt__text">A theatrical multi-media installation based on real life sources that probes the...</p></a> <a href="/case/hunger-in-la" title="Hunger in LA" class="case-excerpt" data-country="united states" data-year="2012" data-category="immersion" data-tags="">
+          <figure class="case-excerpt__image">
+            <img width="311" alt="" src="/uploads/shared/images/scaled/case_thumbnail/46"> <span class="case-excerpt__category">Immersion</span>
+          </figure>
+          <h2 class="case-excerpt__heading">Hunger in LA</h2>
+          <p class="case-excerpt__text">​A virtual news game that creates the feeling of 'being there' as a food crisis...</p></a>
+        </aside>
+      </div>
+      <div class="comments js-comments" id="comments">
+        <div class="content">
+          <div id="disqus_thread">
+            <span class="button--big button--pri comments-button js-comments-button">Comments</span>
+          </div><span class="button--big button--pri comments-button js-comments-button"></span>
+        </div>
+      </div>
+    </div>
+  </div><span class="button--big button--pri comments-button js-comments-button">
+  <script>
+
+                /* detect native android browser, exclude chrome */
+                var navU = navigator.userAgent;
+                var isAndroidMobile = navU.indexOf('Android') > -1 && navU.indexOf('Mozilla/5.0') > -1 && navU.indexOf('AppleWebKit') > -1;
+
+                // Android Browser (not Chrome)
+                var regExAppleWebKit = new RegExp(/AppleWebKit\/([\d.]+)/);
+                var resultAppleWebKitRegEx = regExAppleWebKit.exec(navU),
+                        appleWebKitVersion = (resultAppleWebKitRegEx === null ? null : parseFloat(regExAppleWebKit.exec(navU)[1]));
+                var isAndroidBrowser = isAndroidMobile && appleWebKitVersion !== null && appleWebKitVersion < 537;
+                if (isAndroidBrowser) { body.className = body.className + " is-stock-android"; }
+                else { body.className = body.className + " not-stock-android"; }
+  </script> 
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+  <script>
+
+
+                !window.jQuery && document.write(unescape('%3Cscript src="/93d0270/js/libs/jquery.js"%3E%3C/script%3E'));
+                BASE = "/";
+                CDN_URL = "http://multiplejournalism.org";
+                CDN_IMAGE_ROOT = CDN_URL + "/uploads/shared/images";
+                LANG = "en";
+                JS_ROOT = "/js/build/prod";
+  </script> 
+  <script>
+
+
+        (function() {
+        var localStorage = typeof window.localStorage !== 'undefined' ? window.localStorage : null;
+        var cookie_bar_html = '<section id="cookie-announcement" class="cookie-announcement"> \
+            This site uses cookies. \
+            <a href="/cookies">More information?</a>';
+        if (localStorage) {
+            cookie_bar_html += '<button>&times;</button>';
+        }
+        cookie_bar_html += '</section>';
+        if (!localStorage || !localStorage.getItem('accept_cookies')) {
+            document.write(cookie_bar_html);
+
+                if (localStorage) {
+                        var ca = document.getElementById('cookie-announcement');
+                        var btn = ca.getElementsByTagName('button')[0];
+                        btn.onclick = function() {
+                                ca.parentNode.removeChild(ca);
+                                localStorage.setItem('accept_cookies', 1);
+                        };
+                }
+        }
+  })();
+  </script> 
+  <script src="/93d0270/js/build/prod/main.js"></script></span>
+</body>
+</html>
