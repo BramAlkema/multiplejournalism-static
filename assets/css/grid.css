@@ -217,13 +217,3 @@
 @media only screen and (max-width:42.4375em){.grid__item,.push--palm--none{left:0}
 @media only screen and (max-width:56.1875em){.push--lap--none{left:0}
 @media only screen and (min-width:67.5em){.push--desk--none{left:0}
-
-/* Grid Layout Fixes */
-.grid {
-  font-size: 0; /* Remove whitespace between inline-block items */
-}
-
-.grid__item {
-  font-size: 2rem; /* Restore font size for grid items */
-  font-size: 20px;
-}
